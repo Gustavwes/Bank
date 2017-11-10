@@ -1,0 +1,15 @@
+Test transaktion20171009-142006
+Test transaktion20171009-142151
+Test transaktion20171009-142213
+20171009-143302Överföring Kontonummer1300113006Summa:200
+20171009-143319Överföring Kontonummer1333313222Summa:320
+20171009-143659 Insättning Kontonummer13001 till 0 Summa: 12345 kr
+20171009-143714 Uttag Kontonummer13005 till 0 Summa: 23 kr
+20171009-143730 Överföring Kontonummer13345 till 13234 Summa: 1000 kr
+20171009-144836 Överföring Kontonummer: 13002 till 13005 Summa: 800 kr
+20171009-144855 Insättning Kontonummer: 13002 till 0 Summa: 1900 kr
+20171009-144903 Uttag Kontonummer: 13002 till 0 Summa: 500 kr
+20171010-202556 Insättning Kontonummer: 13383 till 0 Summa: 1000 kr
+20171010-202643 Insättning Kontonummer: 13383 till 0 Summa: 13383 kr
+20171010-202747 Insättning Kontonummer: 13383 till 0 Summa: 13,34 kr
+20171015-004442 Insättning Kontonummer: 13007 till 0 Summa: 100 kr

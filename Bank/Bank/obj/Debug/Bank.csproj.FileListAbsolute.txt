@@ -1,0 +1,16 @@
+C:\Users\Gustav\Dropbox\BankApp\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Gustav\Dropbox\BankApp\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Gustav\Dropbox\BankApp\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Gustav\Dropbox\BankApp\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\Gustav\Dropbox\BankApp\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Gustav\Dropbox\BankApp\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Gustav\Dropbox\BankApp\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\Gustav\Dropbox\BankApp\Bank\Bank\bin\Debug\bankdata.txt
+C:\Users\kratl\Dropbox\BankApp\Bank\Bank\bin\Debug\bankdata.txt
+C:\Users\kratl\Dropbox\BankApp\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\kratl\Dropbox\BankApp\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\kratl\Dropbox\BankApp\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\kratl\Dropbox\BankApp\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\kratl\Dropbox\BankApp\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\kratl\Dropbox\BankApp\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\kratl\Dropbox\BankApp\Bank\Bank\obj\Debug\Bank.pdb
